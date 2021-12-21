@@ -1,0 +1,19 @@
+img1 - Nepal - Swayambhunath 
+img2 - Taiwan - Taipé
+img3 - Brasil - Salvador
+img4 - Japão - Tokyo
+img5 - Estados Unidos - California
+
+fonte:
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;1,300;1,400;1,500;1,600&display=swap" rel="stylesheet">
+
+font-family: 'Open Sans', sans-serif;
+Light 300
+Light 300 italic
+Regular 400
+Regular 400 italic
+Medium 500 italic
+Semi-bold 600
+Semi-bold 600 italic
